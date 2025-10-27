@@ -111,7 +111,7 @@ GRPC-C 是一个基于 gRPC 构建的纯go实现的分布式命令和控制框�
 ./grpc-c-server [-listen address:port] [-password password] [-logfile log_file_path]
 ```
 - `-listen`: 监听地址和端口，默认: `0.0.0.0:50051`
-- `-password`: 管理端连接密码，留空默认密码为 `mastqiu01`
+- `-password`: 管理端连接密码，留空默认密码为 `masterqiu01`
 - `-logfile`: 日志文件路径，留空默认写入 `logs/server.log` 文件
 
 #### 客户端 (Client)
