@@ -6,7 +6,7 @@ GRPC-C 是一个基于 gRPC 的分布式多级远程控制与后渗透任务管�
 
 ## 版本信息
 **当前版本**: 1.0.9
-![grpc-gui](manager-gui.jpg)
+![grpc-gui](manager-gui.png)
 ---
 
 ## 💡 更新日志
